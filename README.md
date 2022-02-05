@@ -7,3 +7,7 @@ Most common oerations include are termed as "CRUD"
 4. Delete From Database
 
 All thse opeartations are key for one to master ther skill of server side programming. And this project forcuses on how each of these operations are used in the server side programming in PHP langauge.
+
+Contributors
+1. Darshan Bhatt
+2. Hannah Rajput
